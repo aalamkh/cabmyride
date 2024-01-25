@@ -1,0 +1,29 @@
+/* DVLAFormStyles.css */
+ .container {
+  padding: 20px;
+ }
+  .container form {
+    display: flex;
+    gap: 10px;
+  }
+  
+  
+  input {
+    padding: 7px;
+  }
+  
+  button {
+    background-color: #1e2c3a;
+    color: #fff;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer; 
+    margin: 35px;
+    padding: 2px;
+   
+  }
+  
+  button:hover {
+    background-color: #4a6686;
+  }
+ 

@@ -1,0 +1,32 @@
+.vec{
+  display: flex;
+  margin: auto;
+  padding: 20px;
+}
+
+
+  .fill{
+    padding: 20px;
+  }
+
+  
+  .fill form {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .fill label {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .fill input,
+  select {
+    padding: 8px;
+  }
+  
+  .fill select {
+    cursor: pointer;
+  }
+  
+  

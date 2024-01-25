@@ -1,0 +1,20 @@
+.view{
+    display: flex;
+    gap: 2px;
+    padding: 20px;
+    
+}
+label {
+    display: flex;
+    flex-direction: column;
+  }
+  
+.view input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    margin-top: 8px;
+    width: 85px;
+  }
+  .home input{ 
+    width: 700px;
+  }

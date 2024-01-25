@@ -1,0 +1,25 @@
+
+.taxi{
+    display: flex;
+  justify-content: space-around;
+  max-width: 800px;
+  padding: 20px;
+}
+
+  
+.taxi form {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .taxi label {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .taxi input {
+    padding: 8px;
+  }
+  
