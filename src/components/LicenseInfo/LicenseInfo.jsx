@@ -9,7 +9,7 @@ const LicenseInfo = () => {
   const handleInputChange = (e) => {
     setLicenseNumber(e.target.value);
   };
-
+ 
   const handleSubmit = (e) => {
     e.preventDefault(); 
     const simulatedData = { 
