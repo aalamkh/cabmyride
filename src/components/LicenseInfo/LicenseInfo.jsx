@@ -13,7 +13,7 @@ const LicenseInfo = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     const simulatedData = {
-      gender: 'Male',
+      gender: 'Male', 
       address: '123 Street, city',
       status: 'Valid',
       DOB:"1986-5-15"
